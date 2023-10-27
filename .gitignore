@@ -126,3 +126,4 @@ ENV/
 *.mp4
 *.csv
 *.h5
+.Rhistory
